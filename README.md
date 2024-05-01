@@ -2,7 +2,8 @@
 <hr>
 
 <!-- 각자 적고 싶은 내용을 적으면 됩니다. -->
-<p>프론트엔드 백엔드에 관심이 많은 프로그래머입니다.</p>
+<p>프론트엔드와 백엔드에 관심이 많은 프로그래머입니다.</p>
+<p>DB설계, 기획 및 구축에도 관심이 많습니다...👊</p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEehnodu&count_bg=%234C6597&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today's&nbsp;Visits&nbsp;/&nbsp;Total&nbsp;Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
