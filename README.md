@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Nodu!
-
 ### ✍️ Blog
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://eehnodu.tistory.com/)
 
