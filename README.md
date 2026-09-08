@@ -2,43 +2,53 @@
 
 > 심플하지만, 확실하게 동작하는 개발을 지향합니다.
 
-백엔드와 프론트엔드를 함께 다룹니다. 기획 협의 · DB 설계 · 백엔드 · 프론트 · 배포를
-한 사람이나 두 사람이 맡는 환경에서 일해 왔습니다.
+---
 
-| 항목 | 내용 |
-| --- | --- |
-| 기간 | 2025.02 ~ 현재 |
-| 프로젝트 | 21건 — SI 19건 · 자사 서비스 2건 |
-| 도메인 | 챗봇 10 · AI 생성 6 · 자사 서비스 2 · 웹/모바일 2 · ERP 1 |
-| 역할 | 전 건 풀스택 (단독 또는 2인) |
+### 💻 Tech Stack
 
-<br>
+#### 🟦 Frontend & Mobile
 
-### 일하는 방식
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-- **필요가 확인된 뒤에 인프라를 늘립니다.** Redis도 인메모리 세션이 다중 워커에서 유실되는 걸 겪은 뒤에 넣었습니다.
-- **외부 API와 결제는 실패한다고 전제합니다.** 환불을 먼저 확정하고, 이중 차감을 막고, 실주문은 드라이런을 기본값으로 둡니다.
-- **숫자는 코드가 계산하고 AI는 서술만 맡깁니다.** AI가 만든 SQL은 화이트리스트 검증을 거친 뒤에만 실행합니다.
+#### 🟩 Backend
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-### 기술
+#### 🟨 Database & Infra
 
-| 영역 | |
-| --- | --- |
-| **Backend** | Python · FastAPI · Django · SQLAlchemy · Alembic · Celery · Pydantic |
-| **Frontend** | TypeScript · React · Vite · Tailwind CSS · TanStack Query |
-| **Mobile** | Flutter · Capacitor |
-| **Database** | MySQL · Redis |
-| **Infra** | AWS · Nginx · Gunicorn · GitHub Actions |
-| **AI · API** | OpenAI · Google Gemini · Claude · ElevenLabs · Firebase |
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
+#### 🟪 AI · API
 
-### 링크
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-- **포트폴리오** · [noduu.duckdns.org](https://noduu.duckdns.org) — 프로젝트 21건, 기술 스택, 개발 방식
-- **블로그** · [eehnodu.tistory.com](https://eehnodu.tistory.com)
+---
 
-작업물은 대부분 회사 프로젝트라 저장소를 공개하지 않았습니다.
-프로젝트마다 무엇을 만들고 어떻게 풀었는지는 포트폴리오에 정리해 두었습니다.
+### 🔗 Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C1C1C?style=for-the-badge&logo=react&logoColor=61DAFB)](https://noduu.duckdns.org)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://eehnodu.tistory.com/)
