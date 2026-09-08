@@ -1,6 +1,8 @@
 # Nodu
 
-> 심플하지만, 확실하게 동작하는 개발을 지향합니다.
+> 심플하지만, 확실하게 동작하는 개발을 지향합니다.<br>
+> 백엔드와 프론트엔드를 함께 다루며, 필요한 기능을 스스로 만들어 가는 과정을 좋아합니다.<br>
+> 정리된 구조와 읽기 쉬운 코드로, 나중에 고치기 쉬운 쪽을 택합니다.
 
 ---
 
@@ -50,5 +52,5 @@
 
 ### 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1C1C1C?style=for-the-badge&logo=react&logoColor=61DAFB)](https://noduu.duckdns.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C1C1C?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAAD1UlEQVR42u2W3U8UVxiHn3POrrNLEIHYSFJqWyBBSWhChNiUj5qSQOyNkTZpjW0spI16U%2B%2BxH3dt%2F4EmVYqR1nTVizb9SCQt61W1ieAiV0IQUyVcrrAbmJ3ZnXNOLxYW0KVgbLwwnWSSmTnvnOe8Z37v7x3x8osvWZ7iIXnKx7MPDD1OsEAgpEAIAYC1tnD%2B50ClFEEuwHM9crkAgHA4RCQSIRQOYbTBYp8cKIXEGMuD5AMqKytpbmmhuvp5rIW5uTmmJidJJpOUle1AKYkxZnk7BBRZwMZAC1JKstksQgg%2BPnWKo%2B8fpa6ubl3Y3Zm7xGIxvj07gO%2F7OI6Th1oLoshneaQOl%2B9WYKWlpZwdHKCtrQ0ArTXGGCygpEQpBcDo6Cgf9X1IMplchW4dKBACstksFy9forWtFc%2F3CSmFkHJdrLWGQGsijsP4%2BDg9hw4XFmyLZCmLSJFQSLGwsEBvXy%2Btba24bgYhxHo1Ll9aa5FC4LouTU1NHD9xgnQqXch88wzXTPZ7%2FA9qamqQa7LSWufhedq6ibXWzM3N0XngDYIgyGf5kHAeyVBKiZfxqK%2BvL8DGxsb4%2FNPPGBmJo5TK157Jw67Gr%2FJJ%2F2lu3LiBUooXdu9mz969eBkPIcXmKhVCkAsCqqqqkFJyc%2BwmPYcOk06nOfPNGX757Vf2Ne9DCEgkErx35Ciu6zJ0fogff%2F6JlpYWdu3aRRAEBYPY1NqEgEDnizsej5NKpaitrSWTyXBnehqlFEopZu7M4LoutXW1pNNp4iPx%2FNYGQVGFFs3QWks4HOb%2B%2FVmstXR0dPB1eTnT09M0NjbS1d3N8JVhrLV0dnbS%2BEojE7cm2FG%2Bg%2FaOdgBmZ2cJh8NFLa%2BoaKSQLC0tEbt8iQMHXieRSDB5%2BzZdXd3sfG4n7a%2B1obXmz7%2BuMT8%2Fz%2FCVYer31NPc3Mz1a9d5u%2BctSqIlGMzWgZ7nU11dzbmhczQ0NBTGcrkcqVQarTUVFRVs2xYujE1NTdF3rJd7f98jEo1grNl6WUgp8TyPaDTKO0fepf90P0opHMdZF%2Br7PsYYvvriS2I%2FxHBdl0gksqHTyA36EMYYotEovu%2Fz3fkhFhcXcRyHsdExckFQsDPHcchms1z4%2FgKZTIZoNLpq4I%2FbLbTWOI6D53mcPH6S%2Fa%2FuZ3BgkINvHmR72XYuxS5yrPcDJm5NkM1miUQiaK0Li9660zzkOGLZunzfp6ysDNd1McZQWlpKOp3GcRxKSkpWVSn%2BpYlvBbjiQFJKtNYFqzPGoJTCGLOmDz5JA17zsrEGo%2FOTaqMLz1cMYjPQ%2F7%2BJzw7wH9QQwLmmXavbAAAAAElFTkSuQmCC&logoColor=white)](https://noduu.duckdns.org)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://eehnodu.tistory.com/)
