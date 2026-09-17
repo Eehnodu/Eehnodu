@@ -50,7 +50,18 @@
 
 ---
 
+### 📂 Repositories
+
+| 저장소 | 무엇 |
+|---|---|
+| [**devlog**](https://github.com/Eehnodu/devlog) | 2025.02 → 2026, 백엔드 구조 · 인증 · 실시간 · 로그 · 파일 · Redis · 배치 · AI 연동 · 결제 · 다국어 · 서버가 어떻게 바뀌어 왔는지 **단계별 실제 코드 조각과 이유**로 남긴 저장소 |
+| [**base_template**](https://github.com/Eehnodu/base_template) | 그 변천의 결과인 현재 표준. FastAPI + React 시작 템플릿 — 인증 · 관리자 · 공통 UI · 마이그레이션 · 실행 스크립트를 미리 갖춤 |
+| [**home_project**](https://github.com/Eehnodu/home_project) | 템플릿으로 만든 포트폴리오 사이트 + 관리자 + Gemini 챗봇. 라즈베리파이 홈서버에서 직접 운영 |
+
+---
+
 ### 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C1C1C?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAAD1UlEQVR42u2W3U8UVxiHn3POrrNLEIHYSFJqWyBBSWhChNiUj5qSQOyNkTZpjW0spI16U%2B%2BxH3dt%2F4EmVYqR1nTVizb9SCQt61W1ieAiV0IQUyVcrrAbmJ3ZnXNOLxYW0KVgbLwwnWSSmTnvnOe8Z37v7x3x8osvWZ7iIXnKx7MPDD1OsEAgpEAIAYC1tnD%2B50ClFEEuwHM9crkAgHA4RCQSIRQOYbTBYp8cKIXEGMuD5AMqKytpbmmhuvp5rIW5uTmmJidJJpOUle1AKYkxZnk7BBRZwMZAC1JKstksQgg%2BPnWKo%2B8fpa6ubl3Y3Zm7xGIxvj07gO%2F7OI6Th1oLoshneaQOl%2B9WYKWlpZwdHKCtrQ0ArTXGGCygpEQpBcDo6Cgf9X1IMplchW4dKBACstksFy9forWtFc%2F3CSmFkHJdrLWGQGsijsP4%2BDg9hw4XFmyLZCmLSJFQSLGwsEBvXy%2Btba24bgYhxHo1Ll9aa5FC4LouTU1NHD9xgnQqXch88wzXTPZ7%2FA9qamqQa7LSWufhedq6ibXWzM3N0XngDYIgyGf5kHAeyVBKiZfxqK%2BvL8DGxsb4%2FNPPGBmJo5TK157Jw67Gr%2FJJ%2F2lu3LiBUooXdu9mz969eBkPIcXmKhVCkAsCqqqqkFJyc%2BwmPYcOk06nOfPNGX757Vf2Ne9DCEgkErx35Ciu6zJ0fogff%2F6JlpYWdu3aRRAEBYPY1NqEgEDnizsej5NKpaitrSWTyXBnehqlFEopZu7M4LoutXW1pNNp4iPx%2FNYGQVGFFs3QWks4HOb%2B%2FVmstXR0dPB1eTnT09M0NjbS1d3N8JVhrLV0dnbS%2BEojE7cm2FG%2Bg%2FaOdgBmZ2cJh8NFLa%2BoaKSQLC0tEbt8iQMHXieRSDB5%2BzZdXd3sfG4n7a%2B1obXmz7%2BuMT8%2Fz%2FCVYer31NPc3Mz1a9d5u%2BctSqIlGMzWgZ7nU11dzbmhczQ0NBTGcrkcqVQarTUVFRVs2xYujE1NTdF3rJd7f98jEo1grNl6WUgp8TyPaDTKO0fepf90P0opHMdZF%2Br7PsYYvvriS2I%2FxHBdl0gksqHTyA36EMYYotEovu%2Fz3fkhFhcXcRyHsdExckFQsDPHcchms1z4%2FgKZTIZoNLpq4I%2FbLbTWOI6D53mcPH6S%2Fa%2FuZ3BgkINvHmR72XYuxS5yrPcDJm5NkM1miUQiaK0Li9660zzkOGLZunzfp6ysDNd1McZQWlpKOp3GcRxKSkpWVSn%2BpYlvBbjiQFJKtNYFqzPGoJTCGLOmDz5JA17zsrEGo%2FOTaqMLz1cMYjPQ%2F7%2BJzw7wH9QQwLmmXavbAAAAAElFTkSuQmCC&logoColor=white)](https://noduu.duckdns.org)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://eehnodu.tistory.com/)
+[![Notion](https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://oil-football-a51.notion.site/3dc0669f896d816ea3d6ca10a9e131d8)
