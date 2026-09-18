@@ -52,11 +52,11 @@
 
 ### 📂 Repositories
 
-| 저장소 | 무엇 |
+| 저장소 | 설명 |
 |---|---|
-| [**devlog**](https://github.com/Eehnodu/devlog) | 2025.02 → 2026, 백엔드 구조 · 인증 · 실시간 · 로그 · 파일 · Redis · 배치 · AI 연동 · 결제 · 다국어 · 서버가 어떻게 바뀌어 왔는지 **단계별 실제 코드 조각과 이유**로 남긴 저장소 |
-| [**base_template**](https://github.com/Eehnodu/base_template) | 그 변천의 결과인 현재 표준. FastAPI + React 시작 템플릿 — 인증 · 관리자 · 공통 UI · 마이그레이션 · 실행 스크립트를 미리 갖춤 |
-| [**home_project**](https://github.com/Eehnodu/home_project) | 템플릿으로 만든 포트폴리오 사이트 + 관리자 + Gemini 챗봇. 라즈베리파이 홈서버에서 직접 운영 |
+| [**devlog**](https://github.com/Eehnodu/devlog) | 기술 변천 기록. 구조 · 인증 · 실시간 · 로그 등 11개 주제를 단계별 코드와 이유로 정리 |
+| [**base_template**](https://github.com/Eehnodu/base_template) | FastAPI + React 시작 템플릿. 인증 · 관리자 · 공통 UI · 마이그레이션 포함 |
+| [**home_project**](https://github.com/Eehnodu/home_project) | 포트폴리오 사이트 · 관리자 · AI 챗봇. 라즈베리파이 홈서버에서 운영 |
 
 ---
 
